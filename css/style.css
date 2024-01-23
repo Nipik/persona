@@ -10,6 +10,9 @@ body{
 #github{
     text-decoration: underline;
 }
+#info{
+    color: #000000;
+}
 #btn-cv{
     background-color: #000000;
     color: #ffffff;
