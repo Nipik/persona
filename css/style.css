@@ -7,6 +7,9 @@
 body{
     overflow-x: hidden;
 }
+#github{
+    text-decoration: underline;
+}
 #btn-cv{
     background-color: #000000;
     color: #ffffff;
