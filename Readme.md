@@ -18,7 +18,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git`
+1. Clone the repository: `git clone https://github.com/Nipik/persona.git`
 2. Open the `index.html` file in your browser.
 
 ## Customization
@@ -29,7 +29,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributing
 
-If you would like to contribute to this project, please [open an issue](https://github.com/your-username/your-portfolio/issues) or create a [pull request](https://github.com/your-username/your-portfolio/pulls).
+If you would like to contribute to this project, please [open an issue](https://github.com/Nipik/persona.git/issues) or create a [pull request](https://github.com/Nipik/persona.git/pulls).
 
 ---
 
